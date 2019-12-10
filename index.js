@@ -11,7 +11,7 @@ switch (num){
         input_var.value += '3';
         break;
         case 4:
-        input_var. alue += '4';
+        input_var. value += '4';
         break;
         case 5:
         input_var.value += '5';
